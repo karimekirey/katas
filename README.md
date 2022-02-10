@@ -1,2 +1,2 @@
 # katas
-Solución de katas, módulos 1-10
+Solución de katas, módulos 0-10
